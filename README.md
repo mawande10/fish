@@ -1,5 +1,5 @@
 # Pizza-Cart-with-expressjs
-A Pizza and Sharwama shopping site built with Express.js and Node.js.
+A Pizza shopping site built with Express.js and Node.js.
 Am still building the App
 
 192.168.43.10
